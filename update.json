@@ -1,9 +1,9 @@
 {
-  "Version": "0.6.1",
-  "Notes": "0.6.1\uFF1A\u65E0\u9650\u751F\u547D\u5F00\u5173\u6539\u4E3A\u5199 Health_Min\uFF08\u771F\u6B63\u786C\u9501\uFF09",
-  "Url": "https://github.com/nn2048/ShadowBladeToolbox/releases/download/v0.6.1/ShadowBladeToolbox-0.6.1.zip",
-  "PageUrl": "https://github.com/nn2048/ShadowBladeToolbox/releases/tag/v0.6.1",
-  "Sha256": "0B1982E248E5D91080D766FE8FF9017B18982D1BE8385378D31767DF7B0C3029",
-  "PublishedAt": "2026-10-30 10:35:11",
-  "Signature": "jLRjD\u002BVvYAJYcNH61pLr3IzBvZ9L5R6iZ7hftvlqZOtonBcia9NgvsHULtm4CT9itT03rQEbzkNCu1eck4OoWg=="
+  "Version": "0.6.2",
+  "Notes": "0.6.2\uFF1A\u5173\u95ED\u9501\u8840\u65F6\u590D\u4F4D\u751F\u547D\u4E0B\u9650\uFF1B\u9690\u85CF\u5360\u4F4D\u9879",
+  "Url": "https://github.com/nn2048/ShadowBladeToolbox/releases/download/v0.6.2/ShadowBladeToolbox-0.6.2.zip",
+  "PageUrl": "https://github.com/nn2048/ShadowBladeToolbox/releases/tag/v0.6.2",
+  "Sha256": "5A3D629C6500280FC167D219780C6861810D58C9187EF5A3B4F98155E981AC80",
+  "PublishedAt": "2026-10-30 10:43:01",
+  "Signature": "ghWHmlQZgp2H5yUAPiASzjtaFbJJvDQvuTIMmsXk1WtAg5r9Oo2ReESMnyfRGVunV8ymtPPgJgmjpxsGZPMHTw=="
 }

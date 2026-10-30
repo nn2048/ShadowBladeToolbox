@@ -1,9 +1,9 @@
 {
-  "Version": "0.9.1",
-  "Notes": "0.9.1\uFF1A\u7981\u7528\u4F1A\u8BA9\u6E38\u620F\u5D29\u6E83\u7684\u5B9E\u9A8C\u6027\u8C03\u7528",
-  "Url": "https://github.com/nn2048/ShadowBladeToolbox/releases/download/v0.9.1/ShadowBladeToolbox-0.9.1.zip",
-  "PageUrl": "https://github.com/nn2048/ShadowBladeToolbox/releases/tag/v0.9.1",
-  "Sha256": "0978EA20BB40E25F171F455D87A15F834D7DB85F902A20D4EBF1A20784003DAA",
-  "PublishedAt": "2026-10-30 14:44:11",
-  "Signature": "XQ\u002BmKTGNR4c31BUm8UNCsaRW1N8wUelBRINHUtWabD3AHzgSmmUwxM9Qczir3LrQDrFVnuMxF/Xuqjm74ncPKQ=="
+  "Version": "0.9.2",
+  "Notes": "0.9.2\uFF1A\u65B0\u589E\u300C\u83B7\u53D6\u5168\u90E8\u9053\u5177 / \u5168\u90E8\u6B66\u5668\u300D\u6CE8\u5165\uFF08\u5DF2\u9A8C\u8BC1\u4E0D\u5D29\uFF09\uFF1B\u7269\u54C1\u9875\u79D2\u5F00 \u002B \u5206\u7C7B\u65B0\u589E\u300C\u6B66\u5668\u300D\uFF1B\u5173\u95EDX\u6536\u6258\u76D8\u3001\u6700\u5C0F\u5316\u5230\u4EFB\u52A1\u680F\uFF1B\u5DE6\u4E0A\u89D2\u5E27\u7387\u6539\u4E3A\u8BFB\u6E38\u620F\u81EA\u8EAB\u5E27\u65F6\u95F4\uFF1B\u5B58\u6863\u5907\u4EFD\u8DEF\u5F84\u56FA\u5B9A\u5230\u7528\u6237\u76EE\u5F55\u3001\u652F\u6301\u8DE8\u7248\u672C\u5E76\u65B0\u589E\u6BCF5\u5206\u949F\u81EA\u52A8\u5907\u4EFD\u3002",
+  "Url": "https://github.com/nn2048/ShadowBladeToolbox/releases/download/v0.9.2/ShadowBladeToolbox-0.9.2.zip",
+  "PageUrl": "https://github.com/nn2048/ShadowBladeToolbox/releases/tag/v0.9.2",
+  "Sha256": "76AB144E7580515A2765C6D4C3B077400C97D657F94899A3232A4594F9A9FC36",
+  "PublishedAt": "2026-10-30 18:32:15",
+  "Signature": "LFcfRps7qq4HWjNb1wCB7U9jI8ZUMQYc8\u002BhgG4OCNrmt16r8bWLJNB7DYpNwzmezxwHrmzrOeaB/eCdi6QqyEA=="
 }
